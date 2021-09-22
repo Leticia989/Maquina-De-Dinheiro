@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/30 16:39:20.000.840,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/01 13:11:12.000.265,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/01 13:11:25.000.105,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/21 20:00:51.000.337,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/21 20:40:45.000.293,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/21 20:42:51.000.445,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/09/21 20:53:55.000.557,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\workspace\Delphi\Maquina Dinheiro\class\uMaquinaDinheiro.pas</Transaction>
+    <Transaction>2021/09/21 21:06:36.000.799,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/09/21 21:08:33.000.866,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\workspace\Delphi\Maquina Dinheiro\class\iMaquina.pas</Transaction>
+    <Transaction>2021/09/21 21:19:51.000.218,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/09/21 21:23:31.000.077,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\workspace\Delphi\Maquina Dinheiro\class\uEnumerado.pas</Transaction>
+    <Transaction>2021/09/21 21:30:59.000.174,=C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/09/21 21:32:24.000.200,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\workspace\Delphi\Maquina Dinheiro\class\uTroco.pas</Transaction>
+    <Transaction>2021/09/21 23:17:52.000.778,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\workspace\Delphi\Maquina Dinheiro\view\FrmPrincipal.dfm</Transaction>
+    <Transaction>2021/09/21 23:17:52.000.778,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\workspace\Delphi\Maquina Dinheiro\view\FrmPrincipal.pas</Transaction>
+    <Transaction>2021/09/21 23:18:07.000.026,C:\Users\ACER\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\workspace\Delphi\Maquina Dinheiro\PrjMaquinaDinheiro.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

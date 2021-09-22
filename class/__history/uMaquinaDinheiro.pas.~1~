@@ -1,0 +1,12 @@
+unit uMaquinaDinheiro;
+
+interface
+
+type
+  TMaquinaDinheiro = class
+
+  end;
+
+implementation
+
+end.

@@ -1,0 +1,17 @@
+program PrjMaquinaDinheiro;
+
+uses
+  Vcl.Forms,
+  FrmPrincipal in 'view\FrmPrincipal.pas' {Form1},
+  uMaquinaDinheiro in 'class\uMaquinaDinheiro.pas',
+  uEnumerado in 'class\uEnumerado.pas',
+  uTroco in 'class\uTroco.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

@@ -1,0 +1,43 @@
+unit uTroco;
+
+interface
+
+uses
+  uEnumerado;
+
+type
+  TTroco = class
+  private
+    FTipo: TCedula;
+    FQuantidade: Integer;
+  public
+    constructor Create(Tipo: TCedula; Quantidade: Integer); reintroduce;
+    function GetTipo: TCedula;
+    function GetQuantidade: Integer;
+    procedure SetQuantidade(Quantidade: Integer);
+  end;
+implementation
+
+{ TTroco }
+
+constructor TTroco.Create(Tipo: TCedula; Quantidade: Integer);
+begin
+
+end;
+
+function TTroco.GetQuantidade: Integer;
+begin
+
+end;
+
+function TTroco.GetTipo: TCedula;
+begin
+
+end;
+
+procedure TTroco.SetQuantidade(Quantidade: Integer);
+begin
+
+end;
+
+end.
